@@ -1,6 +1,8 @@
 Yii Brazilian Validators
 =========================
 
+> **Superseeded by [`yii-br-pack`](https://github.com/igorsantos07/yii-br-pack)** [![Latest yii-br-pack stable version](https://poser.pugx.org/igorsantos07/yii-br-validator/v/stable.svg)](https://packagist.org/packages/igorsantos07/yii-br-pack)
+
 Yii 1.1 Extension that provides validators for Brazilian localization.
 
 * CPF: Cadastro de Pessoa Física (like a Security Social Number in USA) 

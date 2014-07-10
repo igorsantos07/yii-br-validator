@@ -18,5 +18,8 @@
 	},
 	"require-dev": {
 		"phpunit/phpunit": "3.7.*"
+	},
+	"suggest": {
+		"igorsantos07/yii-br-pack": "Superseeded by this package, that also offers some masked fields and more stuff"
 	}
 }
