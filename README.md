@@ -25,7 +25,7 @@ php composer.phar require --prefer-dist igorsantos07/yii-br-validator:1.*
 or add this to the "require" section of your `composer.json` file.
 
 ```
-"yiibr/yii-br-validator": "1.*"
+"igorsantos07/yii-br-validator": "1.*"
 ```
 
 Usage
